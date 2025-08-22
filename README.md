@@ -1,2 +1,2 @@
-# even-odd-program
-This is my python program_ Even/odd
+ # even-odd-program
+python program_ Even/odd
